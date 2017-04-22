@@ -1,6 +1,6 @@
 # tech-bkmk
 
-Draft version:
+### Draft
 
 1. https://www.quirksmode.org/compatibility.html
 2. https://www.quirksmode.org/blog/archives/2015/02/android_webview.html
@@ -9,3 +9,8 @@ Draft version:
 5. https://www.html5rocks.com/en/tutorials/getusermedia/intro/
 6. https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvcmvp
 7. https://mvc.givan.se
+
+
+### JavaScript
+
+1. JavaScript 全栈工程师培训教程 http://www.ruanyifeng.com/blog/2016/11/javascript.html
