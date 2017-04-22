@@ -14,3 +14,4 @@
 ### JavaScript
 
 1. http://www.ruanyifeng.com/blog/2016/11/javascript.html
+2. http://www.ruanyifeng.com/blog/2017/04/memory-leak.html
