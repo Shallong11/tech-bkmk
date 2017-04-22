@@ -13,4 +13,4 @@
 
 ### JavaScript
 
-1. JavaScript 全栈工程师培训教程 http://www.ruanyifeng.com/blog/2016/11/javascript.html
+1. http://www.ruanyifeng.com/blog/2016/11/javascript.html
